@@ -1,3 +1,5 @@
+
+
 # Disaster-Tweet-Sentiment-Analysis
 In today's digital age, social media platforms like Twitter have become vital channels for real-time communication, especially during disasters. Tweets can provide valuable insights into ongoing events, helping organizations and authorities to respond effectively. However, with the vast amount of information shared online, distinguishing between tweets that report actual disasters and those that do not can be challenging.
 Disaster Tweet Sentiment Analysis aims to address this challenge by analyzing the sentiment of tweets related to disasters. The goal is to classify tweets into categories that indicate whether they are genuinely reporting a disaster or not.
