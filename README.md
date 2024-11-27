@@ -1,4 +1,5 @@
 
+![_90836556_678c5ba9-3bc1-4237-864c-fa81f8ff720e](https://github.com/user-attachments/assets/f474112f-fcec-4dc1-8047-896d31d5faf6)
 
 # Disaster-Tweet-Sentiment-Analysis
 In today's digital age, social media platforms like Twitter have become vital channels for real-time communication, especially during disasters. Tweets can provide valuable insights into ongoing events, helping organizations and authorities to respond effectively. However, with the vast amount of information shared online, distinguishing between tweets that report actual disasters and those that do not can be challenging.
